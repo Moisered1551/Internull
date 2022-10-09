@@ -14,9 +14,9 @@ Product description :
 
 STUDENT NUMBER and USERNAME: 
 Moise Kenge Ngoyi (Moisered1551) :  300308366
-Alvin Tran ( alvin69420) : 300307629
-ouyix Xu ( Ouyix) : 300245415
-sarra Sassi (sarra2108) : 300307853
+Alvin Tran (alvin69420) : 300307629
+Ouyi Xu (Ouyix) : 300245415
+Sarra Sassi (sarra2108) : 300307853
 Gamelle (GamelleKamga): ______________
 
 
